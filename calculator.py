@@ -1,5 +1,3 @@
-# Basic Calculator Program
-
 # Ask for user input
 num1 = float(input("Enter the first number: "))
 operation = input("Enter operation (+, -, *, /): ")
@@ -23,5 +21,5 @@ elif operation == "/":
         print("Error: Cannot divide by zero.")
 else:
     print("Invalid operation. Please choose +, -, *, or /.")
-# End of calculator.py
+
 # This is a simple calculator that performs basic arithmetic operations.
